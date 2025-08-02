@@ -29,22 +29,13 @@
 
 <hr>
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight" />
-</p>
-
-<hr>
-
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEULINK" target="_blank">
+  <a href="https://linkedin.com/in/thiago-rocha-silva-1a9596271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:triago26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
