@@ -1,15 +1,15 @@
 <h1 align="center">👋 Olá, sou o Thiago Rocha Silva</h1>
 
-<p align="center">
+<p>
 💡 Apaixonado por criar ideias do zero e transformá-las em projetos reais!<br>
 🎓 Estudante do 3º ano do Ensino Médio/Técnico na <b>ETEC Abdias do Nascimento</b> e futuro <b>Desenvolvedor Full Stack</b>.
 </p>
 
 <hr>
 
-<h2 align="center">🌱 Atualmente aprendendo sobre:</h2>
+<h2 align="center">🚀 Atualmente aprendendo sobre:</h2>
 
-<p align="center">
+<p>
 🌐 <b>Desenvolvimento Web:</b> HTML, CSS, JavaScript<br>
 🐍 <b>Python & Automação</b><br>
 🤖 <b>Inteligência Artificial e MicroSaaS</b><br>
